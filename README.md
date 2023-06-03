@@ -5,7 +5,7 @@
 ### 📲 Instalação  
 | Versão | Download do APK no GitHub|
 |-----|-----|
-|`versão 1.0`|[LINK DOWNLOAD](https://github.com/matheusodecam/portfolioAPK.version1.0/blob/main/app-release.apk) |
+|`versão 1.0`|[LINK DOWNLOAD](https://github.com/matheusodecam/portfolioAPK.version1.0/blob/main/MeuPortfolio.apk) |
 |||
 
 #
